@@ -1,11 +1,10 @@
-# Core Dependencies
-faiss-cpu>=1.7.0  # For vector similarity search
-PyPDF2>=2.0.0    # For PDF text extraction
-numpy>=1.20.0    # Required for numerical operations
-sentence-transformers>=2.2.0  # For text embeddings
-transformers>=4.18.0  # For the language model
-torch>=1.10.0    # PyTorch for deep learning operations
-tqdm>=4.62.0     # Progress bars
+faiss-cpu>=1.7.0  
+PyPDF2>=2.0.0    
+numpy>=1.20.0    
+sentence-transformers>=2.2.0  
+transformers>=4.18.0  
+torch>=1.10.0    
+tqdm>=4.62.0     
 
 # Optional dependencies (uncomment if needed)
 # jupyter>=1.0.0  # For running notebooks
