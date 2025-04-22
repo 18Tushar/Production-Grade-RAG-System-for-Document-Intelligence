@@ -1,4 +1,4 @@
-# 🚀 DocIntel: Production-Grade RAG System for Document Intelligence
+# 🚀 Production-Grade RAG System for Document Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![LLaMA](https://img.shields.io/badge/Meta%20LLaMA-3--8B-orange)](https://ai.meta.com/blog/large-language-model-llama-3/)
