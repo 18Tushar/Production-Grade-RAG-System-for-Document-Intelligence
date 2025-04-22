@@ -52,7 +52,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system designed for ente
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/18Tushar/docintel-rag.git
+   https://github.com/18Tushar/Production-Grade-RAG-System-for-Document-Intelligence.git
    cd docintel-rag
    ```
 
